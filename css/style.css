@@ -1,0 +1,34 @@
+html {
+  background: #fe2078;
+  text-align: center;
+  color: white;
+}
+
+.box-rosa {
+  border: solid #ff5b92;
+  border-bottom-width: 20px;
+  background: #ff5b92;
+}
+
+.box-azul {
+  border: solid #93ece3;
+  border-bottom-width: 20px;
+  background: #93ece3;
+}
+
+.box-laranja {
+  border: solid #fc7144;
+  border-bottom-width: 20px;
+  background: #fc7144;
+}
+
+.cat-trait {
+  color: white;
+  background: #fc7144;
+}
+
+.color-desc {
+  border: 1px solid white;
+  background: white;
+  color: black;
+}
